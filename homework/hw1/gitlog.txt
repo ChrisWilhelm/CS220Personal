@@ -1,0 +1,119 @@
+commit 091ca62efdae9f6911addbc886392844acdbfc31
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:32:22 2020 -0400
+
+    Final Version
+
+commit f2ef08d42ce3d9e58677e70595131bdceccdf02f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:23:01 2020 -0400
+
+    Changed from double to Float
+
+commit 14a613c81a21b9d75c4fe25218a409218e911fae
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:02:49 2020 -0400
+
+    Missed spelled a word, updated now
+
+commit 1e302641d6487e59262bba0ba67861dccb642b01
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 10:59:35 2020 -0400
+
+    Fixed initial statement format
+
+commit 8164e241740bda45de24e9a875c120a09c573441
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 10:54:35 2020 -0400
+
+    Fixed some formatting
+
+commit 8018789ef405b8b26e1b90bea0368169b58c084c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 12:34:50 2020 -0400
+
+    Solved the malformed expression and believe this is the finished file
+
+commit 9b55317cd0b7cc7cd0ecb6a778f9a18b13362189
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 11:53:56 2020 -0400
+
+    Completeted Exercise 3-1
+
+commit fbc902e97959cf4a8fee57086427afcda3a3aaf8
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 10:54:30 2020 -0400
+
+    Oops, solved the malformed issue, I put an or relation instead of an and. Just need to determine when more than one operator as been entered.
+
+commit 7d627d7f686188d8e06f01c6eff3b75c7b18dcd1
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 09:57:39 2020 -0400
+
+    Had the calculator working but am now having issues with the malformed statement
+
+commit e8b575967606553c707415639d3b65e1d6c93050
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Sep 13 14:38:02 2020 -0400
+
+    Created Arithmetic.c
+
+commit adca43ad608919f5ff52c78c6340fa4a5d795be5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 11 13:03:59 2020 -0400
+
+    Final Ex2-2
+
+commit 60de76fedec4d6f7f2d72eead614d7c3776ac28a
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 11 12:02:25 2020 -0400
+
+    gpa simple C program
+
+commit ab54ff564a1c1c34223d06ab5624e1afa87aef32
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 9 12:11:57 2020 -0400
+
+    update commit
+
+commit c341ba6ad5b8ec730f6f0147fbc5c940e353ae4f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 8 19:34:40 2020 -0400
+
+    updated three.c
+
+commit c3f5d94005053bf0dfe8a0960a129a28a500d896
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Sep 6 16:59:01 2020 -0400
+
+    gitlog
+
+commit 9bf584ca9735771b2b0b269ac210db58b72dc745
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:17:50 2020 -0400
+
+    updated README
+
+commit 7ac21d3e5425d408bbd052d4d208480f353f0163
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:15:29 2020 -0400
+
+    updated README
+
+commit c0d37f2bd2772ee45b771a1e20adef90f25cb636
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:11:08 2020 -0400
+
+    homework
+
+commit 42c88e117da28475537d1b71d315c8b53e08c6f0
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:03:20 2020 -0400
+
+    created README
+
+commit 65714c1aaf40b45b601801c0a3371e38f8ae428b
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 09:28:29 2020 -0400
+
+    Homework 0

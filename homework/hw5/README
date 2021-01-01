@@ -1,0 +1,24 @@
+//Chris Wilhelm cwilhel8
+
+This program is structures so that main checks that the correct number of arguments have been passed into it. From here a function in language_model.cpp called read is called which create
+ the trigram of words and checks which operation(a, d, c, f) was called and then calls a print function for that operation.
+Operations:
+	alphabetical: this function is used by using the operation parameter a and no additional parameters. This will output all the trigrams of words in the following format:
+	<# of occurances> - [word1 word2 word3] with it being sorted by the alphabetical order based on the words
+
+	reverse alphabetical: this function is used by using the operation parameter d and no additional parameters. This will output all the trigrams of words in the following format:
+	<# of occurances> - [word1 word2 word3] with it being sorted by the reverse alphabetical order based on the words
+
+	count-ordered list: this function is used by using the operation parameter c and no additional parameters. This will output all the trigrams of words in the following format:
+	<# of occurances> - [word1 word2 word3] with it being sorted by the number of occurances from greatest to least with any ties being determines by alphatical order.
+
+	find: this function is used by using the operation parameter f and two additional word parameters**. The words are used as the first two words of the trigram, and find the third.
+	If there are multiple matches, the one with the highest occurance will be displayed, and if they are of the same occurance, the first alphabetical.
+	This will output all the trigrams of words in the following format:
+	<# of occurances> - [word1 word2 word3] with it being sorted by the alphabetical order based on the words
+	If no matches are found the out put will be:
+	No trigrams of the form [word1 word2 ?].
+	**when entering word parameters, if the word has a "\" in it or "'" or """, in order for it to be includes you must place a backslash before it. Like \\ \' \".
+	
+The reason I formatted it in this way was that it seemed to me to be a more clear method of understanding the program and following its process. This way also requires minimal function
+calls without repition of code.  

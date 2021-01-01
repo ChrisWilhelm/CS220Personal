@@ -1,0 +1,25 @@
+Chris Wilhelm JHED: cwilhel8
+
+The program begins in hw3.c. There the main function checks to make sure a file name argument was passed in,
+and also checks if the user decided to include a restriction value, if not restriction is set to 10. From
+here, the function read_file is called. This file creates a 2d array with columns of size indicated by the
+first number of the file and rows of length MAX_WORD_SIZE. The function sets the values of each entry equal
+to '\0' to ensure no memory problems and then scans each line of the file into its corresponding spot in the
+array. This function returns 0 for no issues and 1 if an line is missing a word. Next match is called. This
+function checks to see if the letters match and looks for the various regex operators(* ? ~). The function
+returns 1 for a match and returns 0 for not a match. If an operator is detected it will call its corresponding
+function. The match_tilde operator is called when a tilde is detected. This function takes in the current
+index for both the word and regex array, along with their arrays and restriction size. This function will
+check for which index, within the restriction value, the wordIndex needs to be moved to and returns that. If
+it is impossible to fill in the restriction value, it will return -1 to match. If another tilde is detected,
+then the function will call itself in a recursive method. match_kleene_star is called from match if a kleene
+star is detected. It uses parameters wordIndex, regexIndex, regex, and word. The function loops from the arrays
+for how many times the letter appears and incraments wordIndex accordingly. The function returns wordIndex.
+When a question mark is detected, match_question_mark is called. This function has the same inputs as tilde.
+This function will determine if the question mark letter needs to not be included and will return 0 if that
+is the case. If it is invalid it will return -1 and if it need to be included, the function creates a new
+array to test in match to make sure it should be include and will return 1 if it should be include and 0 if it
+shouldn't.
+
+I found the passing of the index to be very helpful in this program to make sure we do not miss a value or double
+count one. Also the recurrsion in certain parts was helpful to not write all the possible nodes. 

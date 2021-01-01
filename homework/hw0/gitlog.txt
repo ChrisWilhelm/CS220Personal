@@ -1,0 +1,41 @@
+commit c341ba6ad5b8ec730f6f0147fbc5c940e353ae4f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 8 19:34:40 2020 -0400
+
+    updated three.c
+
+commit c3f5d94005053bf0dfe8a0960a129a28a500d896
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Sep 6 16:59:01 2020 -0400
+
+    gitlog
+
+commit 9bf584ca9735771b2b0b269ac210db58b72dc745
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:17:50 2020 -0400
+
+    updated README
+
+commit 7ac21d3e5425d408bbd052d4d208480f353f0163
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:15:29 2020 -0400
+
+    updated README
+
+commit c0d37f2bd2772ee45b771a1e20adef90f25cb636
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:11:08 2020 -0400
+
+    homework
+
+commit 42c88e117da28475537d1b71d315c8b53e08c6f0
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:03:20 2020 -0400
+
+    created README
+
+commit 65714c1aaf40b45b601801c0a3371e38f8ae428b
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 09:28:29 2020 -0400
+
+    Homework 0

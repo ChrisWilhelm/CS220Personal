@@ -1,0 +1,287 @@
+commit 7c7cd126cfd77441a89a2e9055083628145213c1
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 8 11:11:20 2020 -0400
+
+    Added additional test cases
+
+commit 719d5863debe0769da250e46ee16c12084d03c84
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Oct 7 12:25:05 2020 -0400
+
+    Added commenting to functions.c
+
+commit efa1d05e83c4f8501a569c8ad43e64f09147b352
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Oct 2 12:37:21 2020 -0400
+
+    Ex5-3
+
+commit 0a0c05a1294176d121c7c25f8caba28435ce7d2d
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Oct 2 11:57:24 2020 -0400
+
+    Final Homework Upload
+
+commit cc7311e1d0ce7007ff661b7ef4af58dd57ba618f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Oct 2 11:48:08 2020 -0400
+
+    Had to fix one final error with the question mark function
+
+commit a5c1422598724f065b57c010106ffe0c9036e28d
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Oct 2 11:39:54 2020 -0400
+
+    Created gitlog and fixed make file
+
+commit ae619ad07fd98646a44b666912b30f24aa40f5e5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Oct 2 11:33:04 2020 -0400
+
+    Created README
+
+commit 312c722f74d1c79224e6b98defb482635ec3038f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 1 18:14:32 2020 -0400
+
+    added some comments to code and finalized test cases
+
+commit 9f1f4a87aa467ba1213eb9d830ee85a038f76b99
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 1 16:11:10 2020 -0400
+
+    Have matched all test cases and have all operators working together. Need to add to test cases still
+
+commit a83f223f67004acf9d8c0a42f6750d3e36e92011
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 1 13:56:44 2020 -0400
+
+    Have ? * ~ working independetly, assert fails for test match regex multiple
+
+commit fc8d24ab18d708d219817b30292af3144dd8c238
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 1 11:23:04 2020 -0400
+
+    Working on fixing test function cases, problems with tilde right now. Updated Question and Star functions
+
+commit d12f0834fe40d0ba1160c56e6c73d05823de997c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Thu Oct 1 08:47:33 2020 -0400
+
+    Commented some code and fixed tilde for when multiple tilde are used
+
+commit 1fc6f59900c460d764961444de994c8b7b4b5f93
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 19:33:59 2020 -0400
+
+    Tilde function working, need to fix restriction. Also fixed memory buffer issue
+
+commit 334e47db78a732b2c28fa260688eef8fbd4fc55c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 18:31:20 2020 -0400
+
+    Beginning of Tilde Function...still work in progress
+
+commit 2b677bc6ce7cb93655d224010d3bf5b1c939a397
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 15:19:28 2020 -0400
+
+    Finished question mark operator function and have it working
+
+commit 45338068aaf614a0bae0dae47810aed9e84171dd
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 15:01:14 2020 -0400
+
+    Finish Kleene Star Function
+
+commit 546a0559d411f595bbe651d8fb2ee67995d5968a
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 14:13:52 2020 -0400
+
+    Fixed issue with not seperating the different words from text file
+
+commit 98699211e0da54a1b8f48d885ad0e61970775044
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 13:50:54 2020 -0400
+
+    updated final print statement and removed a if statement in functions.c
+
+commit 9342087646167a015f87cbaaa9d0adf7fe52495c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 13:23:21 2020 -0400
+
+    Slight code changes and commenting, just want to make sure its backed up
+
+commit 6cef34aa1c7b5c02502ce66f2884aaf33b966fad
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 13:06:40 2020 -0400
+
+    Changed the reading in of the file name to stdin
+
+commit a2d69afcfc7757d0d465e74ec88d1cafa0f253b6
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 12:51:47 2020 -0400
+
+    Fixed some error but not getting the correct output yet
+
+commit f0942f549dd41dae214910480452834221f58e44
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 30 11:22:37 2020 -0400
+
+    Created functions and wrote instructions, need to test
+
+commit 48f1441f89f8cac8bc9c9d92a9adb7f637d708ff
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 29 19:20:32 2020 -0400
+
+    Began work on functions.c and hw3.c
+
+commit 9f8a41f39f8860d6aa66d1408d479d4ff679890c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 28 12:50:38 2020 -0400
+
+    exercise 5-1 final
+
+commit 5a47aa8e6d076170de8d11c77090f8adfc40a9e4
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 25 13:11:22 2020 -0400
+
+    Ex4-3 finished
+
+commit ccf437b438e29eb33068554acefe8140098b7e68
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 23 12:50:30 2020 -0400
+
+    updated exercies
+
+commit 8db315d269221516db4efc3f435563f79069e0cd
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 18 12:59:20 2020 -0400
+
+    exercise 3-3
+
+commit 0fd739d544d3a69d226c6531748da1e2d6f32f15
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 18 11:59:43 2020 -0400
+
+    updating exercises
+
+commit 091ca62efdae9f6911addbc886392844acdbfc31
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:32:22 2020 -0400
+
+    Final Version
+
+commit f2ef08d42ce3d9e58677e70595131bdceccdf02f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:23:01 2020 -0400
+
+    Changed from double to Float
+
+commit 14a613c81a21b9d75c4fe25218a409218e911fae
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 11:02:49 2020 -0400
+
+    Missed spelled a word, updated now
+
+commit 1e302641d6487e59262bba0ba67861dccb642b01
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 10:59:35 2020 -0400
+
+    Fixed initial statement format
+
+commit 8164e241740bda45de24e9a875c120a09c573441
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 15 10:54:35 2020 -0400
+
+    Fixed some formatting
+
+commit 8018789ef405b8b26e1b90bea0368169b58c084c
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 12:34:50 2020 -0400
+
+    Solved the malformed expression and believe this is the finished file
+
+commit 9b55317cd0b7cc7cd0ecb6a778f9a18b13362189
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 11:53:56 2020 -0400
+
+    Completeted Exercise 3-1
+
+commit fbc902e97959cf4a8fee57086427afcda3a3aaf8
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 10:54:30 2020 -0400
+
+    Oops, solved the malformed issue, I put an or relation instead of an and. Just need to determine when more than one operator as been entered.
+
+commit 7d627d7f686188d8e06f01c6eff3b75c7b18dcd1
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Mon Sep 14 09:57:39 2020 -0400
+
+    Had the calculator working but am now having issues with the malformed statement
+
+commit e8b575967606553c707415639d3b65e1d6c93050
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Sep 13 14:38:02 2020 -0400
+
+    Created Arithmetic.c
+
+commit adca43ad608919f5ff52c78c6340fa4a5d795be5
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 11 13:03:59 2020 -0400
+
+    Final Ex2-2
+
+commit 60de76fedec4d6f7f2d72eead614d7c3776ac28a
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 11 12:02:25 2020 -0400
+
+    gpa simple C program
+
+commit ab54ff564a1c1c34223d06ab5624e1afa87aef32
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Wed Sep 9 12:11:57 2020 -0400
+
+    update commit
+
+commit c341ba6ad5b8ec730f6f0147fbc5c940e353ae4f
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Tue Sep 8 19:34:40 2020 -0400
+
+    updated three.c
+
+commit c3f5d94005053bf0dfe8a0960a129a28a500d896
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Sun Sep 6 16:59:01 2020 -0400
+
+    gitlog
+
+commit 9bf584ca9735771b2b0b269ac210db58b72dc745
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:17:50 2020 -0400
+
+    updated README
+
+commit 7ac21d3e5425d408bbd052d4d208480f353f0163
+Author: Chris Wilhelm <chriswilhelm2010@gmail.com>
+Date:   Fri Sep 4 12:15:29 2020 -0400
+
+    updated README
+
+commit c0d37f2bd2772ee45b771a1e20adef90f25cb636
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:11:08 2020 -0400
+
+    homework
+
+commit 42c88e117da28475537d1b71d315c8b53e08c6f0
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 12:03:20 2020 -0400
+
+    created README
+
+commit 65714c1aaf40b45b601801c0a3371e38f8ae428b
+Author: Chris Wilhelm <cwilhel8@ugrad5.cs.jhu.edu>
+Date:   Fri Sep 4 09:28:29 2020 -0400
+
+    Homework 0
